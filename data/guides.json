@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "microsoft-office-import",
+    "title": "Microsoft Office Import",
+    "description": "Bring Microsoft Office and spreadsheet information into your PDF workflow.",
+    "asset": "Guide Microsoft Office Import.svg",
+    "filename_aliases": ["Microsoft Office Import", "Office Import", "Excel Import"],
+    "keywords": ["microsoft", "office", "excel", "xlsx", "spreadsheet", "csv", "import", "export", "excel import", "excel export", "excel to export", "export to excel", "office files", "tables", "data", "data import", "data export", "spreadsheet import", "spreadsheet export"],
+    "published": true
+  },
+  {
+    "slug": "reorganizing-pdf-pages",
+    "title": "Reorganizing PDF Pages",
+    "description": "Reorder, move, rotate, insert, delete and organise pages in a PDF.",
+    "asset": "Guide Reorganizing PDF pages.svg",
+    "filename_aliases": ["Reorganizing PDF pages", "Reorganising PDF pages", "PDF page organization", "PDF pages"],
+    "keywords": ["reorganize", "reorganise", "reorder", "rearrange", "pages", "page order", "move pages", "rotate pages", "delete pages", "remove pages", "insert pages", "add pages", "extract pages", "split pdf", "merge pdf", "page management", "document pages"],
+    "published": true
+  },
+  {
+    "slug": "reorganizing-windows",
+    "title": "Reorganizing Windows",
+    "description": "Arrange Markit windows and workspace panels to suit your workflow.",
+    "asset": "Guide Reorganizing windows.svg",
+    "filename_aliases": ["Reorganizing windows", "Reorganising windows", "window layout"],
+    "keywords": ["windows", "window", "panels", "panel layout", "workspace", "work area", "arrange windows", "rearrange windows", "organise workspace", "organize workspace", "interface", "layout", "docking", "navigation panels"],
+    "published": true
+  },
+  {
+    "slug": "document-compare-tools",
+    "title": "Document Compare Tools",
+    "description": "Compare PDF documents and identify changes between drawings or revisions.",
+    "asset": "Guide Document Compare Tools.svg",
+    "filename_aliases": ["Document Compare Tools", "Compare Documents", "PDF Compare"],
+    "keywords": ["compare", "comparison", "document compare", "pdf compare", "compare pdf", "drawing comparison", "revision comparison", "revisions", "differences", "changes", "overlay", "overlay pages", "compare drawings", "document changes"],
+    "published": true
+  },
+  {
+    "slug": "measurement-data",
+    "title": "Measurement Data",
+    "description": "Understand measurement information, quantities and measurement data workflows.",
+    "asset": "Guide Measurement Data.svg",
+    "filename_aliases": ["Measurement Data", "Measurements Data", "Measurement"],
+    "keywords": ["measurement", "measurements", "data", "measurement data", "quantities", "quantity takeoff", "takeoff", "take off", "bill of quantities", "boq", "measurement export", "export measurements", "measurement table", "area", "length", "count", "volume", "perimeter"],
+    "published": true
+  },
+  {
+    "slug": "ocr-guide",
+    "title": "OCR Guide",
+    "description": "Recognise text in scanned PDFs and make documents searchable.",
+    "asset": "Guide OCR Guide.svg",
+    "filename_aliases": ["OCR Guide", "OCR", "Text Recognition"],
+    "keywords": ["ocr", "optical character recognition", "recognise text", "recognize text", "text recognition", "scanned pdf", "scan", "scanned document", "searchable pdf", "make pdf searchable", "extract text", "image pdf", "document scanning"],
+    "published": true
+  },
+  {
+    "slug": "settings-scale-measuring",
+    "title": "Settings, Scale & Measuring",
+    "description": "Set measurement scales, calibration, units and measurement preferences.",
+    "asset": "Guide Settings scale & measuring.svg",
+    "filename_aliases": ["Settings scale and measuring", "Settings scale measuring", "Scale and measuring", "Measurement settings"],
+    "keywords": ["settings", "scale", "scaling", "calibrate", "calibration", "measurement scale", "set scale", "scale settings", "measuring", "measure", "measurement", "units", "unit settings", "drawing scale", "page scale", "ratio", "known distance", "measurements setup"],
+    "published": true
+  },
+  {
+    "slug": "snapping-tool",
+    "title": "Snapping Tool",
+    "description": "Use snapping to place measurements and markups accurately.",
+    "asset": "Guide Snapping Tool.svg",
+    "filename_aliases": ["Snapping Tool", "Snap Tool", "Snapping"],
+    "keywords": ["snap", "snapping", "snap tool", "snap to", "alignment", "align", "precision", "accurate placement", "cursor snap", "object snap", "measurement snap", "markup placement"],
+    "published": true
+  },
+  {
+    "slug": "text-editing",
+    "title": "Text Editing",
+    "description": "Edit and work with text in PDF documents.",
+    "asset": "Guide Text Editing.svg",
+    "filename_aliases": ["Text Editing", "Edit Text", "PDF Text Editing"],
+    "keywords": ["text", "edit text", "editing text", "text editing", "change text", "modify text", "replace text", "pdf text", "text tool", "text markup", "select text", "copy text"],
+    "published": true
+  },
+  {
+    "slug": "tool-chests",
+    "title": "Tool Chests",
+    "description": "Save, organise and reuse frequently used Markit tools and markups.",
+    "asset": "Guide Tool Chests.svg",
+    "filename_aliases": ["Tool Chests", "Tool Chest", "Toolchest"],
+    "keywords": ["tool chest", "tool chests", "toolchest", "saved tools", "custom tools", "reusable tools", "reuse markups", "save markup", "tool library", "symbols", "stamps", "tool templates", "templates"],
+    "published": true
+  },
+  {
+    "slug": "tools-and-customization",
+    "title": "Tools and Customization",
+    "description": "Explore Markit tools and customise the workspace and tool settings.",
+    "asset": "Guide Tools and Customization.svg",
+    "filename_aliases": ["Tools and Customization", "Tools and Customisation", "Customization", "Customisation"],
+    "keywords": ["tools", "customize", "customise", "customization", "customisation", "tool settings", "preferences", "settings", "configuration", "toolbar", "toolbars", "interface", "personalise", "personalize", "workflow", "markit tools"],
+    "published": true
+  }
+]

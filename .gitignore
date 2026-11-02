@@ -1,0 +1,9 @@
+﻿.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+**/secrets.toml
+.env
+.DS_Store
+/markit_portal/
